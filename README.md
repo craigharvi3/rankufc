@@ -1,0 +1,2 @@
+# rankufc
+Alternative UFC rankings
